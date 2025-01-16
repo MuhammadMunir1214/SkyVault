@@ -9,7 +9,7 @@ const poppins = Poppins({
 })
 
 export const metadata: Metadata = {
-  title: "SkyVaultSuperEdition",
+  title: "SkyVaultSuper",
   description: "Sky Vault: Cloud storage, elevated.",
 };
 
