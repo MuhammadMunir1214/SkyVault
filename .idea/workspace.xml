@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7673d28b-a5ce-4a8c-8237-76c6d3a11da1" name="Changes" comment="Changing layout.tsx">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
-    </list>
+    <list default="true" id="7673d28b-a5ce-4a8c-8237-76c6d3a11da1" name="Changes" comment="Changing layout.tsx" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1737070635690</updated>
       <workItem from="1737070637441" duration="170000" />
-      <workItem from="1737244679907" duration="38000" />
+      <workItem from="1737244679907" duration="649000" />
     </task>
     <task id="LOCAL-00003" summary="Changing layout.tsx">
       <option name="closed" value="true" />
@@ -132,7 +129,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737244709592</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Changing layout.tsx">
+      <option name="closed" value="true" />
+      <created>1737244724566</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1737244724566</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
