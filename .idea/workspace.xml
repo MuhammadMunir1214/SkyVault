@@ -95,7 +95,8 @@
       <workItem from="1738125707748" duration="109000" />
       <workItem from="1738278366596" duration="58000" />
       <workItem from="1738378871819" duration="19000" />
-      <workItem from="1738704671454" duration="4000" />
+      <workItem from="1738704671454" duration="63000" />
+      <workItem from="1739126681271" duration="5000" />
     </task>
     <task id="LOCAL-00003" summary="Changing layout.tsx">
       <option name="closed" value="true" />
@@ -257,7 +258,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738378881218</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Adding Landing Page Items.">
+      <option name="closed" value="true" />
+      <created>1738704697658</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1738704697658</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
