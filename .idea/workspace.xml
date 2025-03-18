@@ -97,15 +97,7 @@
       <workItem from="1741842893442" duration="85000" />
       <workItem from="1742019210065" duration="9000" />
       <workItem from="1742257222617" duration="125000" />
-      <workItem from="1742331933509" duration="10000" />
-    </task>
-    <task id="LOCAL-00026" summary="Adding Landing Page Items.">
-      <option name="closed" value="true" />
-      <created>1739241961825</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1739241961825</updated>
+      <workItem from="1742331933509" duration="31000" />
     </task>
     <task id="LOCAL-00027" summary="Adding Landing Page Items.">
       <option name="closed" value="true" />
@@ -491,7 +483,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742257305519</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="Landing Page Items edited.">
+      <option name="closed" value="true" />
+      <created>1742331961730</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1742331961730</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -514,17 +514,5 @@
     <MESSAGE value="Adding Landing Page Items." />
     <MESSAGE value="Landing Page Items edited." />
     <option name="LAST_COMMIT_MESSAGE" value="Landing Page Items edited." />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/app/layout.tsx</url>
-          <line>12</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
