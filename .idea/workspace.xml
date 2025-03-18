@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7673d28b-a5ce-4a8c-8237-76c6d3a11da1" name="Changes" comment="Landing Page Items edited.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,15 +95,7 @@
       <workItem from="1741572839431" duration="128000" />
       <workItem from="1741842893442" duration="85000" />
       <workItem from="1742019210065" duration="9000" />
-      <workItem from="1742257222617" duration="42000" />
-    </task>
-    <task id="LOCAL-00020" summary="Adding Landing Page Items.">
-      <option name="closed" value="true" />
-      <created>1738125784208</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1738125784208</updated>
+      <workItem from="1742257222617" duration="50000" />
     </task>
     <task id="LOCAL-00021" summary="Adding Landing Page Items.">
       <option name="closed" value="true" />
@@ -490,7 +481,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742257262425</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="Landing Page Items edited.">
+      <option name="closed" value="true" />
+      <created>1742257268190</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1742257268190</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
