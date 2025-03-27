@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7673d28b-a5ce-4a8c-8237-76c6d3a11da1" name="Changes" comment="Landing Page Items edited.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,15 +103,7 @@
       <workItem from="1742620733720" duration="105000" />
       <workItem from="1742760891391" duration="53000" />
       <workItem from="1742860964797" duration="247000" />
-      <workItem from="1743114553907" duration="3000" />
-    </task>
-    <task id="LOCAL-00065" summary="Landing Page Items edited.">
-      <option name="closed" value="true" />
-      <created>1741572875480</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1741572875481</updated>
+      <workItem from="1743114553907" duration="31000" />
     </task>
     <task id="LOCAL-00066" summary="Landing Page Items edited.">
       <option name="closed" value="true" />
@@ -498,7 +489,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742861207738</updated>
     </task>
-    <option name="localTasksCounter" value="114" />
+    <task id="LOCAL-00114" summary="Landing Page Items edited.">
+      <option name="closed" value="true" />
+      <created>1743114578571</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1743114578571</updated>
+    </task>
+    <option name="localTasksCounter" value="115" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -521,17 +520,5 @@
     <MESSAGE value="Adding Landing Page Items." />
     <MESSAGE value="Landing Page Items edited." />
     <option name="LAST_COMMIT_MESSAGE" value="Landing Page Items edited." />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/app/layout.tsx</url>
-          <line>12</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
