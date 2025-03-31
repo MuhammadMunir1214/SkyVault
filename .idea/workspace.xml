@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7673d28b-a5ce-4a8c-8237-76c6d3a11da1" name="Changes" comment="Landing Page Items edited." />
+    <list default="true" id="7673d28b-a5ce-4a8c-8237-76c6d3a11da1" name="Changes" comment="Landing Page Items edited.">
+      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,15 +108,7 @@
       <workItem from="1743305261152" duration="101000" />
       <workItem from="1743305377458" duration="33000" />
       <workItem from="1743305417076" duration="25000" />
-      <workItem from="1743389830104" duration="179000" />
-    </task>
-    <task id="LOCAL-00078" summary="Landing Page Items edited.">
-      <option name="closed" value="true" />
-      <created>1742331983477</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
-      <option name="project" value="LOCAL" />
-      <updated>1742331983477</updated>
+      <workItem from="1743389830104" duration="192000" />
     </task>
     <task id="LOCAL-00079" summary="Landing Page Items edited.">
       <option name="closed" value="true" />
@@ -500,7 +494,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743390005414</updated>
     </task>
-    <option name="localTasksCounter" value="127" />
+    <task id="LOCAL-00127" summary="Landing Page Items edited.">
+      <option name="closed" value="true" />
+      <created>1743390014750</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1743390014750</updated>
+    </task>
+    <option name="localTasksCounter" value="128" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
